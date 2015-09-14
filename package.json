@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-comments",
-    "version": "0.0.0-dev",
+    "version": "1.0.0",
     "description": "Eslint rules for JavaScript comments.",
     "main": "index.js",
     "scripts": {
